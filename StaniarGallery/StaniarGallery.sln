@@ -1,12 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaniarGallery", "StaniarGallery.csproj", "{F56495F6-E239-EF0E-BD1E-BD5437862D54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaniarGallery.Editor", "StaniarGallery.Editor.csproj", "{16B6EF97-B1B8-1240-83F7-6F316F5A0176}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F56495F6-E239-EF0E-BD1E-BD5437862D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F56495F6-E239-EF0E-BD1E-BD5437862D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F56495F6-E239-EF0E-BD1E-BD5437862D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F56495F6-E239-EF0E-BD1E-BD5437862D54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16B6EF97-B1B8-1240-83F7-6F316F5A0176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B6EF97-B1B8-1240-83F7-6F316F5A0176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B6EF97-B1B8-1240-83F7-6F316F5A0176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B6EF97-B1B8-1240-83F7-6F316F5A0176}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
