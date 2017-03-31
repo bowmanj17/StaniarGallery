@@ -229,6 +229,7 @@
   <ItemGroup>
     <None Include="Assets\Impactit\Example Scene\Shader\StandardDoublesided.shader" />
     <None Include="Assets\Impactit\ReadMe.txt" />
+    <None Include="Assets\Locker_room_props\readme.txt" />
     <None Include="Assets\SteamVR\Resources\SteamVR_AlphaOut.shader" />
     <None Include="Assets\SteamVR\Resources\SteamVR_ClearAll.shader" />
     <None Include="Assets\SteamVR\Resources\SteamVR_ColorOut.shader" />
