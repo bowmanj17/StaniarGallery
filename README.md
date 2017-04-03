@@ -1,13 +1,14 @@
 # **StaniarGallery**
-Slightly modified version of the Staniar Gallery at Washington and Lee University
-Init on 2017
-Created for Jennifer Lee, William Bannister, Gerrit Van Someren, and John Dannehl's project on Dutch Art in 
+Slightly modified version of the Staniar Gallery at Washington and Lee University.
+Init on 20170326.
+Created for Jennifer Lee, William Bannister, Gerrit Van Someren, and John Dannehl's project on Dutch Art in  
 
 Developed using Cinema 4D and Unity; optimized for Vive VR.
 
 ## **Works Cited**
 
 Paintings sourced from:
+
 https://farm8.staticflickr.com/7662/17222527801_af91ede788_o.jpg
 https://s-media-cache-ak0.pinimg.com/originals/d4/22/2c/d4222c5ecadcfd18170492b3646ad221.jpg
 https://commons.wikimedia.org/wiki/File:Saul_and_the_Witch_of_Endor_by_Jacob_Cornelisz_van_Oostsanen.jpg
