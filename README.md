@@ -1,7 +1,7 @@
 # **StaniarGallery**
 Slightly modified version of the Staniar Gallery at Washington and Lee University.
 Init on 20170326.
-Created for Jennifer Lee, William Bannister, Gerrit Van Someren, and John Dannehl's Virtual Exhibition Project in Professor Lepage's class: ARTH 257: Dutch Arts, Patrons, and Markets.
+Created for Jennifer Lee, William Bannister, Gerrit Van Someren, and John Dannehl's Virtual Exhibition Project in Professor Lepage's class: ARTH 257: Dutch Arts, Patrons, and Markets; at Washington and Lee University.
 
 Developed using Cinema 4D and Unity; optimized for Vive VR.
 
